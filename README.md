@@ -14,6 +14,12 @@ https://github.com/Luchooo/availableTimes/assets/6707442/f76bd643-b022-4a47-965e
 🕗&ensp;(Missing)Add test. 
 <br/>
 
+## Good practices
+✅&ensp;Use of types.   
+✅&ensp;Function Naming.   
+✅&ensp;Dependency injection.
+<br/>
+
 ## Libraries & Frameworks
 In addition to React, Available∙times uses the following library 
 <details>
